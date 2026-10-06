@@ -1,39 +1,50 @@
 ---
 templateKey: site-data
 published: true
-name: "[Client Full Name]"
-jobTitle: "[Client Job Title]"
-location: "[City, State, Country]"
+name: Alec Celestin
+jobTitle: Freelance Creator and Global Tour Manager
+siteName: Alec Celestin
+location: Los Alamitos, California
 profileImage:
-  src: /img/client-headshot.jpg
-  alt: "[Client Full Name]"
-siteUrl: https://www.example.com
+  src: /img/aleccelestin.jpeg
+  alt: Alec Celestin
+siteUrl: https://www.aleccelestin.me
 siteAnalytics: null
-shortBio: "[2–3 sentence bio for the homepage. Keep it punchy and written in
-  third person. This will appear in the Bio Summary section below the hero.]"
+shortBio: Alec Celestin is a Los Alamitos, California-based freelance creator
+  and international tour manager. He started his career at Universal Music Group
+  in Los Angeles in 2019. His activities in this role involved collaborating
+  with artists, managers, and record labels on marketing plans with a global
+  reach. Alec Celestin subsequently worked in brand management roles with
+  Flighthouse and Afterparty.
 longBio: >-
-  [Full biography for the /profile/ page. Can span multiple paragraphs. Include
-  career history, achievements, education, and any personal details the client
-  wishes to share.]
+  Alec Celestin is a Los Alamitos, California-based freelance creator and
+  international tour manager. He started his career at Universal Music Group in
+  Los Angeles in 2019. His activities in this role involved collaborating with
+  artists, managers, and record labels on marketing plans with a global reach.
+  Alec Celestin subsequently worked in brand management roles with Flighthouse
+  and Afterparty.
 
 
-  [Second paragraph of the long bio.]
+  In 2022, Alec Celestin founded Fhotos n’ Frens, through which he offers end-to-end content creation services to entertainers, artists, and influencers. He has generated upwards of 1 billion impressions for his clients, in addition to successfully managing global tours for the DJ/producer duo Sevenn, which stopped at dozens of international venues.
 
 
-  [Third paragraph — education, awards, or closing statement.]
+  During his time as a marketing student at Arizona State University, Alec Celestin served as the social media manager for the Phi Gamma Delta Alpha Sigma Chapter, during which time he developed growth strategies that improved visibility for the chapter’s recruitment and charitable efforts. His studies focused on digital integration. He graduated summa cum laude.
+sameAs:
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/alec-celestin-8aa396159/
 socialLinks:
   twitter:
     url: ""
     label: Visit
     show: false
   facebook:
-    url: ""
+    url: https://www.facebook.com/alec.celestin
     label: Visit
-    show: false
+    show: true
   linkedin:
-    url: ""
+    url: https://www.linkedin.com/in/alec-celestin-8aa396159/
     label: Visit
-    show: false
+    show: true
   pinterest:
     url: null
     label: Visit
@@ -42,14 +53,10 @@ socialLinks:
     url: null
     label: Visit
     show: false
-siteName: "[Client Full Name]"
 favicon: /img/favicon.png
 themeOptions:
   colorScheme: londn
   fontScheme: muli
   showThemeSwitcher: false
-sameAs:
-  - label: LinkedIn
-    url: https://www.linkedin.com/in/example
 fallbackImage: /img/pic-executive-main-banner-01.webp
 ---
