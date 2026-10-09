@@ -2,8 +2,9 @@
 templateKey: index-page
 pageSlug: /
 pageTitle: Home
-metaDescription: "[Client Full Name] is a [Job Title] based in [Location]. This
-  is the official website and professional profile of [Client Full Name]."
+metaDescription: Alec Celestin is a Los Alamitos, California-based freelance
+  creator and international tour manager. He started his career at Universal
+  Music Group in Los Angeles in 2019.
 published: true
 schemaType: WebPage
 featuredImage:
@@ -16,8 +17,8 @@ blogButton:
   link: /blog
   label: Read Blog
 showBio: true
-showSameAs: true
-showPosts: true
+showSameAs: false
+showPosts: false
 showPress: false
 showGallery: false
 showCTA: false
@@ -33,4 +34,4 @@ ctaButton:
   label: Send a Message
   link: mailto:hello@example.com
 ---
-[Client Full Name] is a [Job Title] based in [Location]. Replace this placeholder text with a brief overview that will appear on the homepage.
+Alec Celestin is a Los Alamitos, California-based freelance creator and international tour manager. He started his career at Universal Music Group in Los Angeles in 2019. His activities in this role involved collaborating with artists, managers, and record labels on marketing plans with a global reach. Alec Celestin subsequently worked in brand management roles with Flighthouse and Afterparty.
