@@ -19,7 +19,7 @@ blogButton:
 showBio: true
 showSameAs: false
 showPosts: false
-showPress: false
+showPress: true
 showGallery: false
 showCTA: false
 bioLabel: About
