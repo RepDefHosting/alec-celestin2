@@ -32,6 +32,8 @@ longBio: >-
 sameAs:
   - label: LinkedIn
     url: https://www.linkedin.com/in/alec-celestin-8aa396159/
+  - label: Webflow
+    url: https://aleccelestin.webflow.io/
 socialLinks:
   twitter:
     url: ""
