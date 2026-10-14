@@ -34,4 +34,4 @@ ctaButton:
   label: Send a Message
   link: mailto:hello@example.com
 ---
-Alec Celestin is a Los Alamitos, California-based freelance creator and international tour manager. He started his career at Universal Music Group in Los Angeles in 2019. His activities in this role involved collaborating with artists, managers, and record labels on marketing plans with a global reach. Alec Celestin subsequently worked in brand management roles with Flighthouse and Afterparty.
+Alec Celestin is a Los Alamitos, California-based freelance creator and international tour manager. He started his career at Universal Music Group in Los Angeles in 2019. His activities in this role involved collaborating with artists, managers, and record labels on marketing plans with a global reach. [Alec Celestin](https://www.crunchbase.com/person/alec-celestin) subsequently worked in brand management roles with Flighthouse and Afterparty.
