@@ -8,7 +8,7 @@ metaDescription: Alec Celestin is a Los Alamitos, California-based freelance
 published: true
 schemaType: WebPage
 featuredImage:
-  src: /img/businessbuildings.jpg
+  src: /img/pexels-michaelgaultphotos-9012262.jpg
   alt: Hero Image for home page
 profileButton:
   link: /profile
