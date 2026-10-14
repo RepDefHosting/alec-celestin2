@@ -13,7 +13,7 @@ published: true
 schemaType: ProfilePage
 header: Alec Celestin
 featuredImage:
-  src: /img/businessbuildings.jpg
+  src: /img/pexels-michaelgaultphotos-9012262.jpg
   alt: Hero Image
   caption: null
 connectWithMe: Connect with Me
